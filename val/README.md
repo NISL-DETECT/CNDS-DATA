@@ -2,6 +2,6 @@
 
 This the validation data with lable used in the process of training the model.
 
-Black : 
+Black : 10738
 
-White : 
+White : 16377
