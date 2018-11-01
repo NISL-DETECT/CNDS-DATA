@@ -1,5 +1,5 @@
 # Test Data (unlebled data)
 
-This the test data without labeling for this project.
+This for the testing data from Ali.
 
-Test : 220K unknown category websites from AliCloud as test data
+You can use any data as the test data to verify your model.
