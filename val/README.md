@@ -1,6 +1,6 @@
 # Validation Data
 
-This the val data with labeling for this project.
+This the validation data with lable used in the process of training the model.
 
 Black : 
 
