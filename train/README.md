@@ -2,6 +2,6 @@
 
 This the train data with labeling for this project.
 
-Black : 64413
+Black : 53675
 
-White : 98263
+White : 81886
