@@ -19,7 +19,7 @@ The step you detect a url with our trained model is:
 
 First, you should run the code "client.py" with the url to be detected. For example:
 
-python client.py http://www.66kj.com/
+···python client.py http://www.66kj.com/
 
 Then, you will receive the result.
 The delay between sending request and receiving response is 2~3 seconds.
