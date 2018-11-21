@@ -29,3 +29,7 @@ The delay between sending request and receiving response is 2~3 seconds.
 This is an example:
 
 ![](https://github.com/NISL-DETECT/CNDS-DATA/blob/master/test.png)
+
+The example URL in this example is a Chinese gambling website shown in the following picture:
+
+![](https://github.com/NISL-DETECT/CNDS-DATA/blob/master/gambling_example.png)
