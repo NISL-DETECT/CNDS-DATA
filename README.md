@@ -25,3 +25,7 @@ python client.py http://www.66kj.com/
 
 Then, you will receive the result.
 The delay between sending request and receiving response is 2~3 seconds.
+
+This is an example:
+
+![](https://github.com/NISL-DETECT/CNDS-DATA/test.png)
