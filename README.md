@@ -13,7 +13,7 @@ You should use 'client.py' to send a TCP request with a url to be detected to ou
 The IP address for this service is 202.112.51.36.
 The port opened for this service in our TCP server is 9998.
 
-The code "client.py" should run under python2 environment.
+The code "client.py" should run under python2.x environment.
 
 The step you detect a url with our trained model is:
 
