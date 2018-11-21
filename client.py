@@ -1,8 +1,11 @@
 #!/usr/bin/python
 #-*- coding:utf-8 -*-
 import socket
+import sys
 
-if __name__ == '__main__':
+def main():
+    # You can change the url which you want to test here to detect.
+    url = sys.argv[1]
     hostname, sld, tld, port = 'www', 'integralist', 'co.uk', 80
     target = '{}.{}.{}'.format(hostname, sld, tld)
 
@@ -15,8 +18,6 @@ if __name__ == '__main__':
 
     # send some data (in this case a HTTP GET request)
     #client.send('GET /index.html HTTP/1.1\r\nHost: {}.{}\r\n\r\n'.format(sld, tld))
-    #You can change the url which you want to test here to detect.
-    url = 'www.xxxx.com'
     #An example of black webpage in Chinese.
     #client.send('http://www.66kj.com'.format(sld,tld))
     #An example of white webpage in Chinese.
@@ -27,3 +28,6 @@ if __name__ == '__main__':
     response = client.recv(4096)
 
     print(response)
+
+if __name__ == '__main__':
+    main()
