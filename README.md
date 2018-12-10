@@ -18,6 +18,12 @@ Then you will receive the result like what we show in the following picture:
 
 ![](https://github.com/NISL-DETECT/CNDS-DATA/blob/master/ex_black_re.png)
 
+And we will record the screenshor and the html file, you can click the link to view the screenshot and html file.
+
+![](https://github.com/NISL-DETECT/CNDS-DATA/blob/master/screenshot.png)
+
+![](https://github.com/NISL-DETECT/CNDS-DATA/blob/master/html_black.png)
+
 # Detecting Service by TCP Request
 This service will be shut down, you can test the system by the Web service we mentioned before.
 
