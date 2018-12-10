@@ -7,7 +7,20 @@ Training data and Validation data is both from the Baidu company. Testing data i
 
 Training data : validation data = 5 : 1
 
+# Detecting Service by Web service
+You can open the link of "202.112.51.38", then you can type in a url link in the input box on the webpage.
+
+For example, typing in a url which is black: http://www.66kj.com/.
+
+![](https://github.com/NISL-DETECT/CNDS-DATA/blob/master/ex_black.png)
+
+Then you will receive the result like what we show in the following picture:
+
+![](https://github.com/NISL-DETECT/CNDS-DATA/blob/master/ex_black_re.png)
+
 # Detecting Service by TCP Request
+This service will be shut down, you can test the system by the Web service we mentioned before.
+
 You should use 'client.py' to send a TCP request with a url to be detected to our TCP server and then you will receive the result of the category of this url.
 
 The IP address for this service is 202.112.51.36.
